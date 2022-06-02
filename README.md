@@ -12,3 +12,9 @@ When you hover over the cards you can see their details such as
 
 
 Apart from that you can also search for any character.
+
+## Technology Used
+- React Hooks
+- Axios
+- HTML, CSS
+
